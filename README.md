@@ -1,6 +1,6 @@
-# Apex Portfolio - [Student Name]
+# Apex Portfolio - Carter Quarles
 
-This repository contains my student portfolio for the **Apex [Creative Computing / Cybersecurity] Pathway**. The portfolio features artifacts that demonstrate my proficiency with the technical and professional skills I built in the program.
+This repository contains my student portfolio for the **Apex Creative Computing Pathway**. The portfolio features artifacts that demonstrate my proficiency with the technical and professional skills I built in the program.
 
 ## Portfolio
 
@@ -8,7 +8,7 @@ This repository contains my student portfolio for the **Apex [Creative Computing
 
 ## About Me
 
-I am a student at Apex in the Boulder Valley School District, and I will graduate in [grad year]. After high school, I plan to [plans]. I am interested in [intersests]
+I am a student at Apex in the Boulder Valley School District, and I will graduate in 2027. After high school, I plan to go into game design. I am interested in coding, playing video games, and computer science.
 
 ## Portfolio Contents
 
@@ -37,6 +37,6 @@ This repository does not include:
 
 ## Contact
 
-- **GitHub:** [@USERNAME](https://github.com/USERNAME)
+- **GitHub:** [@Creb206](https://github.com/Creb206)
 - **LinkedIn:** [Optional link]
-- **Email:** [Optional school-approved or professional email]
+- **Email:** carterq822@gmail.com
