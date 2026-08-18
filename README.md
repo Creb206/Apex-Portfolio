@@ -4,7 +4,7 @@ This repository contains my student portfolio for the **Apex Creative Computing 
 
 ## Portfolio
 
-**[Open Portfolio](https://Creb206.github.io/Apex-Portfolio/)**
+**[Open Portfolio](https://github.com/Creb206/Apex-Portfolio)**
 
 ## About Me
 
