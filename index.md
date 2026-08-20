@@ -3,19 +3,19 @@ layout: default
 title: Home
 ---
 
-# [Student Name]
+# Carter
 
-## Apex [Creative Computing / Cybersecurity] Portfolio
+## Apex Creative Computing Portfolio
 
-Welcome to my portfolio. I am an Apex student building skills in **[programming, physical computing, interactive technology, networking, cybersecurity, system administration, or other areas]**.
+Welcome to my portfolio. I am an Apex student building skills in **programming**.
 
 This site contains selected work that demonstrates my technical abilities, design process, problem-solving, collaboration, and growth.
 
 ## About Me
 
-I am interested in **[career field, technology, problem, or area of study]**.
+I am interested in Computer science and Game Design.
 
-I joined the Apex **[Creative Computing / Cybersecurity] Pathway** because **[brief explanation of the student’s interest or goal]**.
+I joined the Apex **Creative Computing Pathway** because **I wanted to learn more about game design and the process of making them**.
 
 Through this program, I am developing experience with:
 
@@ -24,7 +24,7 @@ Through this program, I am developing experience with:
 - [Skill, technology, or practice]
 - [Skill, technology, or practice]
 
-My current goal is to **[describe a career, education, certification, or personal learning goal]**.
+My current goal is to **become an indie game developer**.
 
 ## Technical Interests
 

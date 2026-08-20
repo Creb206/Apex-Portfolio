@@ -3,18 +3,18 @@ layout: default
 title: Resume
 ---
 
-# [Student Name]
+# Carter Quarles
 
-[City, State]  
-[School-approved or professional email]  
-[GitHub profile link]  
+[Broomfield, Colorado]  
+[carterq822@gmail.com]  
+[https://github.com/Creb206]  
 [Portfolio and/or LinkedIn link]
 
 [Download a PDF version](assets/documents/firstname-lastname-resume.pdf)
 
 ## Professional Summary
 
-**[Creative Computing / Cybersecurity]** student building experience in **[programming, networking, cybersecurity, system administration, interactive technology, physical computing, or another area]**. Demonstrates strengths in **[problem-solving, technical communication, collaboration, troubleshooting, design, or another strength]**. Interested in pursuing **[career, college major, certification, internship, or other goal]**.
+**Creative Computing** student building experience in **programming**. Demonstrates strengths in **problem-solving, technical communication, collaboration, troubleshooting, and design**. Interested in pursuing **[career, college major, certification, internship, or other goal]**.
 
 ## Skills
 
@@ -23,15 +23,6 @@ title: Resume
 - **Languages:** [Python, C, C++]
 - **Development tools:** [GitHub, Git, Visual Studio Code, Unreal Engine]
 - **Platforms:** [Linux, Windows, Arduino-compatible microcontrollers]
-
-### Cybersecurity and Networking
-
-- **Networking:** [IPv4 addressing, subnetting, switching, routing, VLANs]
-- **Security:** [Access control, system hardening, logging, vulnerability identification]
-- **Tools:** [Wireshark, Packet Tracer, Linux command line, virtualization platform]
-
-### Language Skills
-- World language and proficiency 
 
 > Delete categories that do not apply. Add specific skills only when you can explain or demonstrate them.
 
@@ -98,14 +89,14 @@ Delete this section until you have a certification, credential, or certification
 
 ## Education
 
-### [Home High School Name]
+### [Broomfield High School]
 
-[City, State]  
-Expected graduation: [Month Year]
+[Broomfield, Colorado]  
+Expected graduation: [5/2027]
 
-### Apex [Creative Computing / Cybersecurity] Pathway
+### Apex Creative Computing Pathway
 
-[Month Year]–Present
+8/2026–Present
 
 Relevant coursework:
 
