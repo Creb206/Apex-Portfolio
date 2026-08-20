@@ -3,32 +3,22 @@ layout: default
 title: Artifact Name
 ---
 
-# Artifact Name
+# CS Workstation
 
-<p class="artifact-meta">[Type of Artifact] | [Month Year]</p>
+<p class="artifact-meta">Hardware | 8/26</p>
 
 ## Summary
 
-[Write a short paragraph explaining what this artifact is and the context in which it was created. Include the larger project or challenge when relevant.]
+Set up computer science workstation assembled by me during class.
 
-**Project:** [Project Name]
+**Project:** CS Workstation
 
-**My role:** [Briefly describe your individual contribution, especially if this was collaborative work.]
+**My role:** Inventrory and assembly 
 
 ## The Artifact
 
-[Embed or link the actual artifact here.]
+[Picture](https://github.com/Creb206/Apex-Portfolio/blob/main/artifacts/artifact-name/IMG_20260817_111545.jpg)
 
-Examples:
-
-- Image or screenshot
-- PDF
-- GitHub repository
-- Program or interactive experience
-- Video demonstration
-- Network diagram
-- Technical document
-- Prototype photos
 
 ![Description of artifact](ARTIFACT-IMAGE.png)
 
