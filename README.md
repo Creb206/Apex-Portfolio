@@ -1,4 +1,4 @@
-# Apex Portfolio - Carter Quarles
+# Apex Portfolio - Carter
 
 This repository contains my student portfolio for the **Apex Creative Computing Pathway**. The portfolio features artifacts that demonstrate my proficiency with the technical and professional skills I built in the program.
 
