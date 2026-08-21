@@ -1,17 +1,17 @@
 ---
 layout: default
-title: Artifact Name
+title: CS Lab Workstation
 ---
 
-# CS Workstation
+# CS Lab Workstation
 
-<p class="artifact-meta">Hardware | 8/26</p>
+<p class="artifact-meta"> Image | August 2026 </p>
 
 ## Summary
 
 Set up computer science workstation assembled by me during class.
 
-**Project:** CS Workstation
+**Project:** CS Lab Launch
 
 **My role:** Inventrory and assembly 
 
@@ -20,9 +20,9 @@ Set up computer science workstation assembled by me during class.
 [Picture](https://github.com/Creb206/Apex-Portfolio/blob/main/artifacts/artifact-name/IMG_20260817_111545.jpg)
 
 
-![Description of artifact](ARTIFACT-IMAGE.png)
+![Image of an assembled workstation.](Workstation.jpg)
 
-[View the full artifact](LINK-TO-ARTIFACT)
+[View the full artifact](Workstation.jpg)
 
 ## Skills Demonstrated
 
