@@ -13,7 +13,7 @@ Set up computer science workstation assembled by me during class.
 
 **Project:** CS Lab Launch
 
-**My role:** Inventrory and assembly 
+**My role:** Inventory and assembly 
 
 ## The Artifact
 
@@ -26,27 +26,22 @@ Set up computer science workstation assembled by me during class.
 
 ## Skills Demonstrated
 
-<span class="skill-tag">[Skill]</span>
-<span class="skill-tag">[Skill]</span>
-<span class="skill-tag">[Skill]</span>
+<span class="skill-tag">Inventorying</span>
+<span class="skill-tag">Hardware Management</span>
+<span class="skill-tag">Responsibility</span>
 
 ## Tools and Technologies
 
-- [Tool, language, platform, or technology]
-- [Tool, language, platform, or technology]
-- [Tool, language, platform, or technology]
+- Cable Management
+- Hardware Setup
 
 ## Implementation
 
-[Explain how you created this artifact. Describe the major decisions, technical work, problem-solving, testing, troubleshooting, or revisions involved.]
-
-[Include process images if they help explain your work.]
-![Describe image](PROCESS-IMAGE.png)
-
+This work station was set up with a widescreen monitor, docking port, and laptop. I set it up over the course of a few dozen minutes and ensured it worked and cables were well managed.
 
 ## What I Learned
 
-[Describe what you learned technically or professionally and what you would do differently next time.]
+I learned how to effectively set up a work station while ensuring parts were inventoried.
 
 ---
 
