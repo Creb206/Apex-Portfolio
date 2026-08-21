@@ -37,6 +37,6 @@ This repository does not include:
 
 ## Contact
 
-- **GitHub:** [@Creb206](https://github.com/Creb206)
+- **GitHub:** [@CarterzCode](https://github.com/CarterzCode)
 - **LinkedIn:** [Optional link]
 - **Email:** carterq822@gmail.com
