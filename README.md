@@ -18,10 +18,9 @@ I am a student at Apex in the Boulder Valley School District, and I will graduat
 
 ## Featured Skills
 
-- [Skill]
-- [Skill]
-- [Skill]
-- [Skill]
+- Responsibility
+- Independence
+- Coding Skills
 
 ## Privacy and Safety
 
