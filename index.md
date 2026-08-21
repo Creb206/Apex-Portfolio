@@ -19,26 +19,21 @@ I joined the Apex **Creative Computing Pathway** because **I wanted to learn mor
 
 Through this program, I am developing experience with:
 
-- [Skill, technology, or practice]
-- [Skill, technology, or practice]
-- [Skill, technology, or practice]
-- [Skill, technology, or practice]
+- Coding
+- Hardware Management
+- Game Design
 
 My current goal is to **become an indie game developer**.
 
 ## Technical Interests
 
-### [Interest Area]
+### Coding
 
-[Explain what interests you about this area and what you have done with it.]
+I enjoy the process of coding and the problem solving it enables.
 
-### [Interest Area]
+### Game Design
 
-[Explain what interests you about this area and what you have done with it.]
-
-### [Interest Area]
-
-[Explain what interests you about this area and what you hope to learn next.]
+I find thinking about how others will interact with an experience to ensure everyone has an enjoyable time to be very engaging. 
 
 ## Portfolio Navigation
 
